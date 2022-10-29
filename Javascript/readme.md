@@ -9,9 +9,6 @@
 
 ### Javascript Variables
 - Variable Declarations
-  - let
-  - var
-  - const
 - Hoisting 
 - Naming Rules  
 - Scopes
