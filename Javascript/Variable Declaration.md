@@ -1,10 +1,10 @@
-### Variable Declarations
-To use variables in JavaScript, we first need to create it i.e. declare a variable. To declare variables, we use one of the **var, let, or const** keywords.
+# Variable Declarations
+> To use variables in JavaScript, we first need to create it i.e. declare a variable. To declare variables, we use one of the **var, let, or const** keywords.
 
 
-#### var keyword
- - can be called global, function and block<br>
- - var keyword allows us to use after we use it
+#### About var keyword
+ - can be called global, function and block
+ - var keyword has pre-defined value of undifined
  
 Example: **let declared inside the block and called outside the block**
 ```javascript
@@ -31,6 +31,8 @@ console.log(varVariable)
 var varVariable = 'This is true'
 
 // undefined
+//Note: var has predefined value of undifined
+// its like var varVariable = undefined;
 ```
 <hr>
 
