@@ -40,3 +40,6 @@ console.log("Can operate heart: " + heartSurgeon.CanOperateHeart());
 // Heart Specialist:false
 // Can operate heart: Can operate heart disease
 ```
+
+references:
+https://javascript.info/prototype-inheritance
