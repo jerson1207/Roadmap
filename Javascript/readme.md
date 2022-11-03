@@ -19,6 +19,6 @@
 - Implicit Type Casting
 
 ### Data Structures
-- Type Conversion/Coercion
-- Implicit Type Casting
-- Explicit Type Casting
+- Keyed Collections
+- Structured data
+- Indexed collections
