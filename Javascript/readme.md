@@ -19,6 +19,6 @@
 - Implicit Type Casting
 
 ### Data Structures
-- Keyed Collections
+- [Keyed Collections](https://github.com/jerson1207/Roadmap/blob/main/Javascript/Data%20Structures/Keyed%20Collections.md)
 - Structured data
 - Indexed collections
